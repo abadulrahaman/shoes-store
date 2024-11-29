@@ -1,0 +1,31 @@
+{
+    "shoes": [
+      {
+        "id": 1,
+        "name": "Fall Limited Edition Sneakers",
+        "originalPrice":250,
+        "Discountprice": 125.00,
+        "image_1": "https://fm-ecommerce-product-page-cyan.vercel.app/_next/static/media/image-product-1.c95272fd.jpg",
+        "image_2": "https://fm-ecommerce-product-page-cyan.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-product-2.3c0d837c.jpg&w=640&q=75",
+        "image_3": "https://fm-ecommerce-product-page-cyan.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-product-3.18849313.jpg&w=640&q=75",
+        "image_4": "https://fm-ecommerce-product-page-cyan.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-product-4.ed713294.jpg&w=640&q=75",
+        "description": "These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they’ll withstand everything the weather can offer.",
+        "rating": 4.2,
+        "discount": 50
+      },
+      {
+        "id": 2,
+        "name": "Men Casual shoes",
+        "originalPrice":250,
+        "Discountprice": 125.00,
+        "image_1": "https://m.media-amazon.com/images/I/51yd2zN+zXL._AC_UF1000,1000_QL80_.jpg",
+        "image_2": "https://5.imimg.com/data5/ANDROID/Default/2022/2/MJ/AO/ZH/73718625/product-jpeg.jpg",
+        "image_3": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/g/06/cded5646-331f-4969-a6ad-32c917692394.jpg",
+        "image_4": "https://m.media-amazon.com/images/I/51CVSmzldnL._AC_UY1000_.jpg",
+        "description": "Perfect for long runs with amazing cushioning.",
+        "rating": 4.4
+      }
+      
+    ]
+  }
+  
