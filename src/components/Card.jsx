@@ -6,7 +6,16 @@ import { useNavigate } from 'react-router-dom';
 export const Card = ({ item }) => {
   const navigate = useNavigate();
 
-  const { id, name, originalPrice, discountPrice, image_1, description, rating, discount } = item;
+  const {   // destructuring data
+    id, 
+    name, 
+    originalPrice, 
+    discountPrice, 
+    image_1, 
+    description, 
+    rating, 
+    discount,
+  } = item;
 
   return (
     <div className="w-96 border-[1px] border-black rounded-lg p-2">
